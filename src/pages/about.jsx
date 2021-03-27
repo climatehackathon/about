@@ -1,11 +1,15 @@
-import React, { useContext } from 'react';
+import React, { useContext, useEffect } from 'react';
 import Navi from "../components/navi";
 import { Box, Grid, ResponsiveContext } from 'grommet';
 import TeamMemberCard from '../components/teamMembers/teamMemberCard';
 import Team from '../components/teamMembers';
 
 const AboutPage = () => {
+    useEffect(() => {
+    document.title = "About"
+}, [])
     const size = useContext(ResponsiveContext);
+
     return (
         <>
             <Navi />
