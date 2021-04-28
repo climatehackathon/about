@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/about/static/css/main.c5fa6883.chunk.css",
-    "main.js": "/about/static/js/main.4cfb6465.chunk.js",
-    "main.js.map": "/about/static/js/main.4cfb6465.chunk.js.map",
+    "main.js": "/about/static/js/main.7ceab907.chunk.js",
+    "main.js.map": "/about/static/js/main.7ceab907.chunk.js.map",
     "runtime-main.js": "/about/static/js/runtime-main.ad735d8c.js",
     "runtime-main.js.map": "/about/static/js/runtime-main.ad735d8c.js.map",
     "static/css/2.2c710ec5.chunk.css": "/about/static/css/2.2c710ec5.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Landpro2.6971a4d6.png": "/about/static/media/Landpro2.6971a4d6.png",
     "static/media/Landpro3.0f5aec95.png": "/about/static/media/Landpro3.0f5aec95.png",
     "static/media/Markus.731a7f21.png": "/about/static/media/Markus.731a7f21.png",
+    "static/media/Oded.c46b01d7.png": "/about/static/media/Oded.c46b01d7.png",
     "static/media/leaflet.draw.css": "/about/static/media/spritesheet.a4e0eb7a.svg"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.2c710ec5.chunk.css",
     "static/js/2.629df476.chunk.js",
     "static/css/main.c5fa6883.chunk.css",
-    "static/js/main.4cfb6465.chunk.js"
+    "static/js/main.7ceab907.chunk.js"
   ]
 }
