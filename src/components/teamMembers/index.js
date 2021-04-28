@@ -48,7 +48,7 @@ const Team = [
         title: 'Full-stack', 
         personalInfo:"It always seems impossible until it's done.",
         image: 'https://i.ibb.co/wrQZJMb/oded-1.jpg',
-        linkedin: 'https://www.linkedin.com/in/odedwinberger/'
+        linkedin: 'https://www.linkedin.com/in/odedw/'
     },
 
 
