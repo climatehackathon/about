@@ -1,5 +1,6 @@
 import Jonas from '../../assets/teamMembers/Jonas.png';
 import Markus from '../../assets/teamMembers/Markus.png';
+import Oded from '../../assets/teamMembers/Oded.png';
 const Team = [
     {
         name: 'Markus Giger', 
@@ -47,7 +48,7 @@ const Team = [
         name: 'Oded Winberger', 
         title: 'Full-stack', 
         personalInfo:"It always seems impossible until it's done.",
-        image: 'https://i.ibb.co/wrQZJMb/oded-1.jpg',
+        image: Oded,
         linkedin: 'https://www.linkedin.com/in/odedw/'
     },
 
